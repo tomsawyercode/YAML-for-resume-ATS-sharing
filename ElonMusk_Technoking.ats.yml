@@ -1,0 +1,89 @@
+---
+# This is brief version of the Elon Musk resume.
+# validate here: https://www.yamllint.com/
+# convert to json: https://onlineyamltools.com/convert-yaml-to-json
+
+contact:
+  firstname: Elon Reeve 
+  lastname: Musk
+  aka: The successful businessman who destroyed Twitter
+  email: elon@spacex.com
+  phone: (310) 363-6000
+  icq-id: 10987654321
+  
+  address:	1 Rocket Rd, Hawthorne, California, 90250, United States
+  social_networks:
+  - twitter: https://twitter.com/elonmusk
+  - facebook:  none never
+  - instagram: none never
+
+summary: |
+        Quick thinker and fast implementor, many year of experience working
+        with rockets, electric cars, satellites, etc..
+        I am  ambitious, fast-paced, critical, and efficient at work.
+
+skills: [rocket science, engineering, construction, tunneling, physics, car design]
+
+education:
+- institution: University of Pennsylvania (UPenn),Bachelor of Arts
+  degree: Bachelor degree in physics
+  start: 1990
+  end: 1995
+
+- institution: University of Pennsylvania (UPenn),  Bachelor of Science
+  degree: Bachelor degree in economics 
+  start: 1990
+  end: 1995
+
+professional:
+- company: Zip2
+  title: Senior Programmer  
+  rol: code development
+  description: coding main web site..
+  start: 1995-05-01  # ISO-8601 time format 
+  end: 1999-06-01
+
+- company: X.com and PayPal
+  title: CEO
+  rol: things that a CEO do
+  description: bla bla bla
+  start: 1999
+  end: 2001
+
+- company: SpaceX
+  title: CEO and Chief Engineer    
+  rol: bla bla bla
+  description: bla bla bla
+  start: 2002
+  end: present 
+
+- company: Tesla Inc.
+  title: Technoking, Director, Product Architect
+  start: 2004
+         
+
+- company: Twitter Inc.
+  title: CEO
+  start: 2022
+
+awards:
+- presenter: Inc. magazine 
+  prize: Entrepreneur of the Year  
+  date: 2007
+
+- presenter: American Institute of Aeronautics and Astronautics George Low
+  prize: "The most outstanding contribution in the field of space transportation"
+  date:  2008
+ 
+- presenter: Royal Aeronautical Society's
+  prize: Gold medal
+  date: 2012
+
+certifications:
+
+- title: n/a
+  url: n/a
+  date: n/a
+
+
+
